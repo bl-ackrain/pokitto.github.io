@@ -33,3 +33,13 @@ h2 {
 body {
     color: #c84f4f;
 }
+
+.navigation, .site-header, .site-footer {
+    width: 304px;
+}
+
+.site-header {
+    display: flex;
+    min-height: 100px;
+    align-items: center;
+}
