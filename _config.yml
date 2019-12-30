@@ -1,6 +1,6 @@
 title: "The Pokitto Guidebook"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "light"
+color_scheme: "dark"
 search_enabled: true
-logo: "/assets/images/pok_logo.png"
+logo: "/assets/images/pok_green.png"
 future: true
