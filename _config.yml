@@ -3,3 +3,4 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 logo: "/assets/images/pok_cool_logo2.png"
+future: true
