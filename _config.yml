@@ -4,3 +4,7 @@ color_scheme: "dark"
 search_enabled: true
 logo: "assets/images/pok_green_doutline.png"
 future: true
+footer_content: "Copyright &copy; 2020 Pokitto Oy."
+aux_links:
+  "Pokitto.com":
+    - "//www.pokitto.com/"
