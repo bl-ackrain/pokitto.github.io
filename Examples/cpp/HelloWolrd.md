@@ -1,6 +1,8 @@
 ---
 title: Hello World
-parent: Examples
+parent: C++
+nav_order: 1
+has_children: false
 ---
 
 

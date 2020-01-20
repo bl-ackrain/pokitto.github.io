@@ -8,5 +8,5 @@ permalink: /examples
 
 # Pokitto Examples
 
-Pokitto Guidebook is a collection of information about Pokitto and how it works.
+
 
