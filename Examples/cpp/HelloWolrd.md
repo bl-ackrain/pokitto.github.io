@@ -7,8 +7,11 @@ has_children: false
 
 
 ## Hello World
-
-Your first program on the pokitto
+Your first program on the pokitto 
+ 
+<div class="code-example" markdown="1">
+**main.cpp**
+</div>
 
 ```cpp
 #include "Pokitto.h"
@@ -23,4 +26,12 @@ int main(){
     }
     return 0;
 }
+```
+
+<div class="code-example" markdown="1">
+**My_settings.h**
+</div>
+
+```cpp
+#define PROJ_SCREENMODE   MODE_HI_4COLOR
 ```
